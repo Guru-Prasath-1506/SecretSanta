@@ -32,7 +32,6 @@ SecretSanta/
 │── app.py                   # Main Flask application
 │── templates/
 │   └── index.html            # Frontend UI
-│── static/                   # Static assets (CSS, JS)
 │── tests/                    # Unit tests
 │── data/
 │   ├── employees.csv         # Employee data
